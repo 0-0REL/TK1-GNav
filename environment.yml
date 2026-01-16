@@ -1,0 +1,6 @@
+name: TK1-GNav-env
+channels:
+  - conda-forge
+dependencies:
+  - control
+  - slycot
